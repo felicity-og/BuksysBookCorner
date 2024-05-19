@@ -1,0 +1,224 @@
+/* Create your test CSS here */
+/* for index */
+.page-section {
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+}
+.clearfix::after {
+  display: block;
+  clear: both;
+  content: "";
+}
+.container,
+.container-fluid,
+.container-xxl,
+.container-xl,
+.container-lg,
+.container-md,
+.container-sm {
+  --bs-gutter-x: 1.5rem;
+  --bs-gutter-y: 0;
+  width: 100%;
+  padding-right: calc(var(--bs-gutter-x) * 0.5);
+  padding-left: calc(var(--bs-gutter-x) * 0.5);
+  margin-right: auto;
+  margin-left: auto;
+}
+.intro {
+  position: relative;
+}
+@media (min-width: 992px) {
+  .intro .intro-img {
+    width: 75%;
+    float: right;
+  }
+  .intro .intro-text {
+    left: 0;
+    width: 60%;
+    margin-top: 3rem;
+    position: absolute;
+  }
+  .intro .intro-text .intro-button {
+    width: 100%;
+    left: 0;
+    position: absolute;
+    bottom: -2rem;
+  }
+}
+@media (min-width: 1200px) {
+  .intro .intro-text {
+    width: 45%;
+  }
+}
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+.mb-3 {
+  margin-bottom: 1rem !important;
+}
+.mb-lg-0 {
+  margin-bottom: 0 !important;
+}
+.rounded {
+  border-radius: var(--bs-border-radius) !important;
+}
+.text-center {
+  text-align: center !important;
+}
+.bg-faded {
+  background-color: #acf1fd;
+}
+.p-5 {
+  padding: 3rem !important;
+}
+.section-heading {
+  text-transform: uppercase;
+}
+.section-heading .section-heading-upper {
+  display: block;
+  font-size: 1rem;
+  font-weight: 800;
+}
+.section-heading .section-heading-lower {
+  display: block;
+  font-size: 3rem;
+  font-weight: 100;
+}
+.mb-4 {
+  margin-bottom: 1.5rem !important;
+}
+
+/* for reviews page*/
+.column1 {
+  display: inline-block;
+  padding: 10px;
+}
+ul.a {
+  list-style-type: circle;
+}
+ol.b {
+  list-style-type:georgian;
+}
+/* for tbr page*/
+.column2 {
+  display: inline-block;
+  height: 315px;
+  width: 200px;
+  padding: 10px;
+}
+/* for reading challenge page*/
+@import url('https://fonts.googleapis.com/css?family=Assistant');
+body {
+  /*background: #eee;*/
+  font-family: Assistant, sans-serif;
+}
+
+.cell-1 {
+  border-collapse: separate;
+  border-spacing: 0 4em;
+  background: #fff;
+  border-bottom: 2px dashed;
+  /*background-color: gold;*/
+  background-clip: padding-box;
+}
+
+thead {
+  background: #dddcdc;
+}
+
+.toggle-btn {
+  width: 40px;
+  height: 21px;
+  background:#acf1fd;
+  border-radius: 50px;
+  padding: 3px;
+  cursor: pointer;
+  -webkit-transition: all 0.3s 0.1s ease-in-out;
+  -moz-transition: all 0.3s 0.1s ease-in-out;
+  -o-transition: all 0.3s 0.1s ease-in-out;
+  transition: all 0.3s 0.1s ease-in-out;
+}
+
+.toggle-btn > .inner-circle {
+  width: 15px;
+  height: 15px;
+  background: #fff;
+  border-radius: 50%;
+  -webkit-transition: all 0.3s 0.1s ease-in-out;
+  -moz-transition: all 0.3s 0.1s ease-in-out;
+  -o-transition: all 0.3s 0.1s ease-in-out;
+  transition: all 0.3s 0.1s ease-in-out;
+}
+
+.toggle-btn.active {
+  background: #b5afaf !important;
+}
+
+.toggle-btn.active > .inner-circle {
+  margin-left: 19px;
+}
+/* for tbr page*/
+
+/* form styling */
+form {
+  margin: 0 auto;
+  width: 450px;
+  padding: 1em;
+  border: 2px solid #acf1fd;
+  border-radius: 1em;
+}
+
+ul.tres{
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+form li + li {
+  margin-top: 1em;
+}
+
+label {
+  display: inline-block;
+  width: 100px;
+  text-align: right;
+}
+
+input, textarea {
+  font: 1em sans-serif;
+  width: 310px;
+  box-sizing: border-box;
+  border: 2px solid #acf1fd;
+}
+
+input:focus, textarea:focus {
+  border-color: #000;
+}
+
+textarea {
+  vertical-align:top;
+  height: 5em;
+}
+
+.button {
+  padding-left: 105px; 
+}
+button:hover {
+  background-color: #acf1fd;
+}
+
+button{
+  background-color: white;
+  border-color: #acf1fd;
+  color: black;
+  padding: .5em .5em;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+#closing{
+  font-style:italic;
+  font-size: larger;
+}
