@@ -1,4 +1,5 @@
-##Buksy's Book Corner
+### Buksy's Book Corner
+
 Hello!
 This was a personal project I carried out while advancing my skills in web development/ design. 
 It was more of a passion project as I recently decided to open a bookstagram (instagram account for all things books:))
