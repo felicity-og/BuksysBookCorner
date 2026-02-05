@@ -1,0 +1,164 @@
+{
+  "books": [
+    {
+      "book_id": "bk_001",
+      "title": "Now You See Her",
+      "author": "James Patterson",
+      "genres": ["fiction", "mystery", "thriller"],
+      "vibe": ["mysterious"],
+      "summary": "",
+      "review": "This was my first James Patterson read almost 10 years ago and reading this a second time reminds me how much I love his writing. This book was a wild rollercoaster. If you’re looking for a fast paced thriller with unexpected twists and turns, read this!",
+      "rating": 4
+    },
+    {
+      "book_id": "bk_002",
+      "title": "The True Love Experiment",
+      "author": "Christina Lauren",
+      "genres": ["fiction", "contemporary","romance"],
+      "vibe": ["light-hearted", "funny", "hopeful"],
+      "summary": "",
+      "review": "Not sure why it took me this long to read this! I thought I loved the soulmate equation but thissss…swooning over Fizzy and Connor! Christina Lauren never miss",
+      "rating": 5
+    },
+    {
+      "book_id": "bk_003",
+      "title": "The Murder After the Night Before ",
+      "author": "Katy Brent",
+      "genres": ["fiction", "contemporary", "mystery", "thriller"],
+      "vibe": ["dark", "mysterious", "tense"],
+      "summary": "",
+      "review": "Couldn’t put it down! Unexpected ending, didn’t see it coming for sure",
+      "rating": 4
+    },
+    {
+      "book_id": "bk_004",
+      "title": "Promise Me Sunshine",
+      "author": "Cara Bastone",
+      "genres": ["fiction", "contemporary", "romance"],
+      "vibe": ["emotional", "funny", "hopeful"],
+      "summary": "",
+      "review": "Loved it! It was sad, heartbreaking but beautiful. Grief is a powerful feeling and Miles and Lenny’s journey navigating it separately and together was wonderful to witness.",
+      "rating": 5
+    },
+    {
+      "book_id": "bk_005",
+      "title": "When I Think You",
+      "author": "Myah Ariel",
+      "genres": ["fiction", "contemporary", "romance"],
+      "vibe": ["emotional", "hopeful", "light-hearted"],
+      "summary": "",
+      "review": "I love love loved this! My first audiobook listen!  Dewanda Wise killed it, she pulled me in from the first chapter and I was hooked. The story of Danny and Kaliyah was so beautiful, heartwarming and heartbreaking at the same time. A take of first loves and second chances. It’s a great story for film/cinema lovers and it gave a realistic look into Hollywood all the good and the bad. ",
+      "rating": 5
+    },
+    {
+      "book_id": "bk_006",
+      "title": "Something More",
+      "author": "Jackie Khalilieh",
+      "genres": ["fiction", "young adult", "romance"],
+      "vibe": ["light-hearted"],
+      "summary": "Jessie, a teenage girl, getting ready for the start of high school while struggling with her sense of identity, gets diagnosed with autism. And while she is going through all the stages of being a teenager like navigating your independence with your parents, making friends, trying to fit in, puberty, crushes…she also is figuring what this diagnosis means for her future.",
+      "review": "I haven’t raved about a YA book in a minuteee. It was such a fun and introspective read! I say introspective because it had me reminiscing on my time in high school; from the friendship drama, to figuring out who you want to be, trying to be someone you’re not, massively obsessing over your crushes and so much more. I truly admired female main character Jessie K, her wit and willingness to put herself out there. The author did a great job of showing her heart in this story. The book also gives readers a deeper understanding of how getting an autism diagnosis can change your life. The richness of social, cultural, and identity representation enhances the storytelling, adding a layer of depth.",
+      "rating": 5
+    }, 
+    {
+      "book_id": "bk_007",
+      "title": "The Day I Left You",
+      "author": "Caroline Bishop",
+      "genres": ["fiction", "historical"],
+      "vibe": ["informative", "sad"],
+      "summary": "Spanning across decades, the story tells of the forbidden, naive love between British Henry and German Greta during the Cold War. Despite a wealth of difference in their background, culture, viewpoints, dreams, they fall in love and against all odds get married on a whim. Their marriage starts off well; they were happy until one day Greta leaves Henry with no explanation. After which we see the cracks that emerged from family opinions, lack of communication, mismatched dreams... We see the POVs of both Greta and Henry navigating loss, heartbreak, shame, fear ; back when they just got married and 30 years down the line.",
+      "review": "It was a compelling, heartbreaking and beautiful story of love, war, heartbreak, history, fear, deception. The story truly reflects the dire effects of decisions made out of fear and shame; wrong decisions made for the right reasons and how life, though it seems, is not always greener on the other side. My heart broke for both Henry and Greta, all their loved ones and the sad reality of a life not lived. I thoroughly enjoyed this. As someone who doesn’t often read historical fictions, it took me some time to get through but I was never bored, the facts and history bits weaved in the story made it all the more intriguing. Now I want to delve deeper into the Cold War and what life was like back then. It also made me reflect on human nature and empathize with people’s thought processes and decision making. After all, we are all a product of our experiences, choices, and the environment that shapes us.",
+      "rating": 4
+    },
+    {
+      "book_id": "bk_008",
+      "title": "Ready or Not",
+      "author": "Cara Bastone",
+      "genres": ["fiction", "contemporary", "romance"],
+      "vibe": ["emotional", "funny", "hopeful"],
+      "summary": "",
+      "review": "Just beautiful! There’s a rawness and depth in the accidental pregnancy trope that just warms my heart. This book embodies it and more. The characters, the banter, the love, the personal growth >>> loved it!",
+      "rating": 5
+    },
+    {
+      "book_id": "bk_009",
+      "title": "My December Darling",
+      "author": "Lauren Asher",
+      "genres": ["fiction", "contemporary", "romance"],
+      "vibe": ["funny", "light-hearted"],
+      "summary": "",
+      "review": "Only problem is I wish the story was longer lol. Loved the storyline, characters, the emphasis on their culture. The themes of found family, friendships, navigating difficult relationships all on the premise of the most wonderful time of the year! p.s. finding that one person who understands your love for that one hobby>>>",
+      "rating": 5
+    },
+    {
+      "book_id": "bk_010",
+      "title": "The Attack",
+      "author": "Yasmina Khadra",
+      "genres": ["fiction", "literary"],
+      "vibe": ["dark", "emotional", "reflective"],
+      "summary": "",
+      "review": "Wow…not sure what to even say. What a tragic story. It definitely was a page turner. Once I actually got into the book, I couldn’t stop. I liked that the prologue was clarified at the end, like everything eventually came full circle. I appreciated the depth and detail put into the plot. Sometimes I felt like the information was excessive, and the story got boring. But on the other hand, I saw how it played into the reader's understanding of the history. The author's diction is quite verbose, though, which might be difficult for some. But to his credit, he did a great job at conveying the main character's emotions cause you could feel his pain. It’s interesting to see how deeply one's convictions can influence their actions. Some parts of the story shed light on the current Israeli-Palestinian conflict which was eye-opening. I also found it fascinating that Dr. Amin was terribly convinced that he must have had something to do with his wife’s decision, and also how he thought there was anything he could have done, as a husband, to change what happened. As someone who watches a lot of crime TV, I've always wondered about s bombers and their mindset, and there’s something to be said about how the author toes the line of explaining but also not explaining why Sihem did what she did. And at the end, Amin still couldn’t wrap his head around it either. Overall, it was an intriguing and tragic story about some people’s current realities that really make you wonder about how far you’ll go to stand up for what you believe in, also how we as humans regard one another with our differences in culture, religion, upbringing, etc.",
+      "rating": 4
+    }, 
+    {
+      "book_id": "bk_011",
+      "title": "Next To You",
+      "author": "Hannah Bonam-Young",
+      "genres": ["fiction", "contemporary", "romance"],
+      "vibe": ["emotional", "hopeful", "inspiring"],
+      "summary": "",
+      "review": "I don’t have words, only tears...Hannah is always making me cry, Bo and Win have a special place in my heart but now, so do Matt and Lane. To be loved is to be seen…and oh how Matt sees Lane. This story hits differently as someone who has lost her dad so this is as much as I can write in lieu of a review but this beautiful story of love, loss, grief, family, friendships, discovery, longing, is one that will stay with me. 'He who has felt the deepest grief is best able to experience supreme happiness.' And in the words of Mattheus: 'If we were infinite beings, I wouldn’t worry about holding you like this every second I could. I’d know I’d get to do it again. The love I have for you is urgent. It’s a needy thing. Maybe it wouldn’t be if we had eternity. I’d get lazy with it.' May we all experience such urgent love.",
+      "rating": 5
+    },
+    {
+      "book_id": "bk_012",
+      "title": "Josh and Gemma Make a Baby",
+      "author": "Sarah Ready",
+      "genres": ["fiction", "contemporary", "romance"],
+      "vibe": ["emotional", "light-hearted"],
+      "summary": "A story about love (unrequited ), loss, family, infertility; the struggle, the hope, the yearning as @sarahready says and most importantly laughter; being able to find the silver lining in any situation. ",
+      "review": "Firstly, I loved how I was able to see various points of view of women dealing with infertility, how it affected them individually, how it affected their relationships, etc. Some parts were difficult to read cause I felt the pain and it was heartbreaking. Most of the time, I blame conflicts (not sure if that’s the correct literary term) in novels on the male protagonist because they are mostly at fault. But Gemma really takes the crown ( in case you read it, Ch 24 to be exact). I was so upset and I ranted on my stories but I had to finish so I kept on reading and she just annoyed me some more!!! It was infuriating. Reading on, I started to sympathize with Gemma, realizing how life threw her many curveballs and she just did her best in trying to deal/ or not deal with it. Josh, Josh, Josh! He's a selfless sweetheart. He shocked me many times by his reactions (you'll understand when you read the book) and it truly warmed my heart. Lastly, I loved how whenever I thought I knew what was going to happen next, I was wrong. This story made me really think about the 'unrequited' and how there could be someone out there that adores you completely and you have no freaking idea about the feeling or even the person. Also, there is such danger in judging people, you lose out on experiencing so much, allow people to show you their worth before you decide they ain't worth it.",
+      "rating": 4
+    }, 
+    {
+      "book_id": "bk_013",
+      "title": "Part of Your World",
+      "author": "Abby Jimenez",
+      "genres": ["fiction", "contemporary", "romance"],
+      "vibe": ["emotional", "funny", "hopeful"],
+      "summary": "",
+      "review": "Usually it takes some time for me to fully fall in love with a book boyfriend but with Daniel Grant, it came so easily. From the first few chapters, you get an idea of the kind of human he is, kind, humble and someone that reignites your faith in mankind ( I might be exaggerating but if you've read it, tell me you understand!!) . A story about that 'one of a kind' love, the unspoken burden put on children, classism, that 'family is found' kind of friendship, and the deep rooted effects sometimes unseen, unspoken; of abuse. I'll start with the 'one of a kind' love… Alexis didn’t know what it was like to be loved till she was loved wholly by Daniel. She was not accustomed to the sacrificial love that Daniel made her feel time and time again; she hadn't seen it in her parents, or felt it in her relationship with them nor had she been loved like that in the past . It was a strange but welcome feeling. And she thought she could deny herself of it, convincing herself that she could walk away from it but once you experience that kind of love; it changes you, alters you forever. The most thought provoking theme in this book for me was how much classism is present in this world and how it robs us of experiencing the beautiful nature of mankind. We judge without any basis, we lack the compassion to treat each other equally and unknowingly miss out on special people who could have changed our lives even just for a minute;  for Alexis, stepping into Wakan made her realize the sort of life she lived, the way her 'class' treated the 'others' of society and that kind of awareness can only be experienced. That shift in perspective is simply a reminder that differences shouldn’t equate division rather be the driving force of togetherness. Lastly; 'sometimes family is found'… the depiction of this was highly represented in this book; Daniel and basically the whole town of Wakan, Alexis and Bri. It was so beautiful to see Bri remind Alexis of her worth even when her own family made her feel less than, when Bri stood up for her countless times when the people she called friends didn't. When Doug showed up cause  Daniel needed him, when Wakan showed up for Hannah and many other instances. It warmed my heart because truly friends are your chosen family.",
+      "rating": 5
+    }, 
+    {
+      "book_id": "bk_014",
+      "title": "The Soulmate Equation",
+      "author": "Christina Lauren",
+      "genres": ["fiction", "contemporary"],
+      "vibe": ["light-hearted", "funny", "emotional"],
+      "summary": "A story about single motherhood, community, family, love, science ( the nerd in me loved this), the probability of finding your 'person'.",
+      "review": "Watched a booktok and the reviewer said 'there's nothing like a single mom being taken care of' and I was sold! That statement hit me deep. I'm usually not a fan of slow- burns but I completely did not mind it. I was hooked from the first chapter. I have to say I laughed out loud so many times because Jess is hilarious; the humour she brought to book was refreshing. The storytelling was *insert chef's kiss*. The struggles of being  a single mom sometimes weighed her down but she had a great support system who always showed up for her. A community that she was ever grateful for. She never let herself want for more especially in the romance department because she felt it was selfish to her kid. But when River came along she couldn’t deny the want, how it felt to be wanted. Jess and River's story did not start so smoothly but it blossomed into something beautiful. It took some time for River's real character to show up but when it did ouuuu. He was THERE for Jess which came as a surprise to her and almost had her running for the hills lol. River's kindness and affection did not go unnoticed and his attention to her and her close knit family made her heart soar. The scientific approach to the start of their relationship was an added bonus and I enjoyed the elements of statistics and the probability that their compatibility made them soulmates. The most heart-warming aspect of this was Jess finally being taken care of; after years of solely focusing on Juno, who was her whole world; she got to experience a different type of love and devotion. She chose to be vulnerable, take a risk and let love lead instead of logic… and River made it all worth it. This book had me gushing and awwing so many times. ",
+      "rating": 5
+    },
+    {
+      "book_id": "bk_015",
+      "title": "The Way I Used to Be",
+      "author": "Amber Smith",
+      "genres": ["young adult", "fiction", "contemporary"],
+      "vibe": ["dark", "sad", "emotional"],
+      "summary": "",
+      "review": "For some reason I really couldn’t put pen to paper on how I felt when I first read this book but it touched me deeply… I felt so many emotions for Eden. I was angry (for her) being betrayed and violated by someone who she trusted. I was sad that her family and friends couldn’t see that she just needed, craved for someone to ask that simple question. I was upset at how cruel kids/ teens can be. I was relieved that Josh; sweet, kind Josh was the person she connected with afterwards. I sympathized with Eden in trying to not deal with what happened. Finally, I was happy that in her own time, she confided in someone who didn’t doubt her and gave her unwavering support inspite of how much they hurt one another. It’s a delicate but necessary story beautifully written.",
+      "rating": 5
+    }, 
+    {
+      "book_id": "bk_016",
+      "title": "Say You'll Remember Me",
+      "author": "Abby Jimenez",
+      "genres": ["fiction", "contemporary", "romance"],
+      "vibe": ["emotional", "hopeful", "funny"],
+      "summary": "",
+      "review": "The main characters, Samantha and Xavier knew this all too well. Xavier decided early on in life due to unfortunate circumstances that he would be the ‘carer’ most especially for animals. Samantha moved her whole life back home to help in caring for her mother who had dementia. Xavier worked basically 7 days a week to make enough money to visit Samantha. Samantha and her family sacrificed everything to fulfill her mother’s wish to live at home. Xavier had the courage to tell Samantha that despite the odds stacked against them, he would do anything to be with her. Samantha had the courage to turn down a great job offer to ensure her family stuck together. Xavier dropped everything to take care of Samantha’s family in a time of grief.  Samantha did her mum’s makeup everyday to help her look like her old self, even when she couldn’t acknowledge it… This story ripped my heart out in multiple ways, at multiple times. I saw long distance relationships in a very different light and I am empathetic towards people navigating such situations. Xavier and Samantha were regular people with regular jobs, with debt, family responsibilities, personal obligations and the depth of the sacrifices they made to be with each other was admirable.  Being a caregiver is a difficult job!!! I have seen it first- hand  and the toll it takes is beyond, the sacrifices… Abby did a phenomenal job in portraying the effects of that on a family from various angles. Despite the deep themes in this book, Abby found a way to keep the romance alive. Xavier and Samantha’s love story is one that would make you laugh, swoon, cry, break your heart and mend it back. ",
+      "rating": 4.5
+    } 
+  ]
+}
